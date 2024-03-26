@@ -1,0 +1,31 @@
+:root {
+    --Very-Dark-Grayish-Blue: #48556a;
+    --Desaturated-Dark-Blue: #6d7f97;
+    --Grayish-Blue: #9eafc2;
+    --Light-Grayish-Blue: #ecf2f8;
+}
+
+.manrope-500 {
+  font-family: "Manrope", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 500;
+  font-style: normal;
+}
+.manrope-700 {
+  font-family: "Manrope", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 700;
+  font-style: normal;
+}
+@media screen and (min-width: 640px) {
+  .dialog::after {
+    content: '';
+    position: absolute;
+    top: 100%;
+    left: 50%;
+    margin-left: -13px;
+    border-width: 13px;
+    border-style: solid;
+    border-color: #48556a transparent transparent transparent;
+  }
+}

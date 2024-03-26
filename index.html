@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"> <!-- displays site properly based on user's device -->
+  <link href='https://unpkg.com/boxicons@2.1.4/css/boxicons.min.css' rel='stylesheet'>
+  <link rel="icon" type="image/svg" sizes="32x32" href="./images/favicon-32x32.svf">
+  <link rel="stylesheet" href="./output.css">
+  <link rel="stylesheet" href="./style.css">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Manrope:wght@200..800&display=swap" rel="stylesheet">
+  <title>Article preview component</title>
+</head>
+<body class="bg-[#ecf2f8] manrope-500 p-8 sm:px-32 sm:py-8 sm:grid sm:place-items-center sm:h-screen">
+  <main class="flex flex-col w-full h-full sm:flex-row sm:w-[47rem] sm:h-[18.5rem] rounded-xl overflow-hidden">
+    <div class="w-full sm:w-[50rem] sm:h-full">
+      <img class="w-full h-full" src="images/drawers.jpg" alt="">
+    </div>
+    <div class="px-9 py-8 bg-white">
+      <h2 class="text-[#48556a] manrope-700 text-xl mb-5">
+        Shift the overall look and feel by adding these wonderful 
+        touches to furniture in your home
+      </h2>
+      <p class="text-[#6d7f97] text-sm mb-5">
+        Ever been in a room and felt like something was missing? Perhaps 
+        it felt slightly bare and uninviting. I’ve got some simple tips 
+        to help you make any room feel complete.
+      </p>
+      <div class="flex">
+        <img class="w-11 h-11 rounded-full" src="images/avatar-michelle.jpg" alt="">
+        <div class="grid gap-0 place-items-start ml-3">
+          <span class="manrope-700 text-basis">
+          Michelle Appleton
+          </span>
+          <p class="text-[#9eafc2] text-basis manrope-500">
+            28 Jun 2020
+          </p>
+        </div>
+        <div class="relative">
+          <div id="share_btn" class="bg-[#ecf2f8] rounded-full w-9 h-9 ml-32 flex justify-center items-center mt-2.5 text-[#48556a] cursor-pointer hover:bg-[#48556a] hover:text-white">
+            <i class='bx bxs-share bx-flip-horizontal'></i>
+          </div>
+          <div id="social_medias" class="dialog | bg-[#48556a] text-white sm:w-56 p-3 rounded-lg absolute flex justify-start items-center shadow-lg sm:top-[-4rem] sm:left-[2em] hidden">
+            <span class="ml-6 tracking-[0.4rem] text-[#9eafc2] text-[0.75rem]">SHARE</span>
+            <i class='bx bxl-facebook-square | text-xl ml-2 cursor-pointer'></i>
+            <i class='bx bxl-twitter | text-xl ml-2 cursor-pointer'></i>
+            <i class='bx bxl-pinterest | text-xl ml-2 cursor-pointer'></i>
+          </div>
+        </div>
+      </div>
+    </div>
+  </main>
+  <script src="index.js"></script>
+
+</body>
+</html>
