@@ -4,17 +4,17 @@
 
   <img src="https://www.frontendmentor.io/static/images/logo-mobile.svg" alt="front end mentor" width="80">
 
-  <h2 align="center">Recipe page solution</h2>
+  <h2 align="center">Article preview component solution</h2>
   <p align="center">
   <!-- a modifier -->
-    <a href="https://www.frontendmentor.io/challenges/Recipe-page-koxpeBUmI"><strong>Frontend Mentor Challenge</strong></a>
+    <a href="https://www.frontendmentor.io/challenges/Article-Preview-Component-koxpeBUmI"><strong>Frontend Mentor Challenge</strong></a>
     <br />
     <br />
-    <a href="https://johanlib.github.io/Recipe-page/">View Demo</a>
+    <a href="https://johanlib.github.io/Article-Preview-Component/">View Demo</a>
     ·
-    <a href="https://github.com/johanLib/Recipe-page/issues" target="_blank">Report Bug</a>
+    <a href="https://github.com/johanLib/Article-Preview-Component/issues" target="_blank">Report Bug</a>
     ·
-    <a href="https://github.com/johanLib/Recipe-page/issues" target="_blank">Request Feature</a>
+    <a href="https://github.com/johanLib/Article-Preview-Component/issues" target="_blank">Request Feature</a>
   </p>
 </div>
 
@@ -39,12 +39,12 @@
 
 </div>
 
-This is a solution to the [Recipe page challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/Recipe-page-koxpeBUmI). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
+This is a solution to the [Article preview component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/Article-Preview-Component-koxpeBUmI). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
 
 <h2 align="center">Links</h2>
 
-- Solution URL: [Recipe page | Frontend Mentor](https://www.frontendmentor.io/solutions/Recipe-page-solution-5JPlrVzzgi)
-- Live Site URL: [https://johanlib.github.io/Recipe-page/](https://johanlib.github.io/Recipe-page/)
+- Solution URL: [Article preview component | Frontend Mentor](https://www.frontendmentor.io/solutions/Article-Preview-Component-solution-5JPlrVzzgi)
+- Live Site URL: [https://johanlib.github.io/Article-Preview-Component/](https://johanlib.github.io/Article-Preview-Component/)
 
 <br>
 

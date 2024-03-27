@@ -1,0 +1,9 @@
+{
+    "theme_color": "#ecf2f8",
+    "background_color": "#ecf2f8",
+    "scope": "/",
+    "start_url": "/",
+    "name": "article preview component",
+    "short_name": "article preview component",
+    "description": "article preview component solution for frontend mentor"
+}
